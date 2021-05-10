@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eric Saldivar</h1>
 <h3 align="center">A passionate software engineer from Texas</h3>
 
-<img src='https://github.com/esaldivar/esaldivar/blob/main/Screen Shot 2021-05-10 at 6.44.14 PM.png?raw=true' height='500px' width='100%'>
-
 
 - 🌱 I’m currently learning **Python**
 
