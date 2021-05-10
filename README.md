@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric Saldivar</h1>
 <h3 align="center">A passionate frontend developer from Texas</h3>
 
-[<img src='https://github.com/esaldivar/esaldivar/blob/main/nzprofile.jpeg?raw=true' height='100px' width='100%'>]
+[<img src='https://github.com/esaldivar/esaldivar/blob/main/nzprofile.jpeg?raw=true' height='500px' width='100%'>]
 
 
 - 🌱 I’m currently learning **Python**
