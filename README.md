@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/esaldivar)  [<img src='https://i.pinimg.com/564x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg'  alt='linkedin' height='40'>](https://www.linkedin.com/in/esaldivar1214/)  [<img src='https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png' alt='twitter' height='40' >](https://twitter.com/print_HelloEric)  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/esaldivar)  [<img src='http://assets.stickpng.com/images/58e91afdeb97430e81906504.png'  alt='linkedin' height='40'>](https://www.linkedin.com/in/esaldivar1214/)  [<img src='https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png' alt='twitter' height='40' >](https://twitter.com/print_HelloEric)  
 
 </p>
 
