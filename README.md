@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/print_helloeric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="print_helloeric" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/esaldivar1214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esaldivar1214/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/esaldivar1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="esaldivar1214" height="30" width="40" /></a>
 <a href="https://medium.com/@eric.saldivarno2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@eric.saldivarno2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/esaldivar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="esaldivar" height="30" width="40" /></a>
 </p>
