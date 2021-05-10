@@ -17,8 +17,6 @@
 <a href="https://github.com/esaldivar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaldivar&layout=compact&theme=radical" />
 </a>
-<h1 align="center">Hi 👋, I'm Eric Saldivar</h1>
-<h3 align="center">A passionate frontend developer from Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esaldivar&label=Profile%20views&color=0e75b6&style=flat" alt="esaldivar" /> </p>
 
