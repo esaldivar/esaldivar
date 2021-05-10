@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eric Saldivar</h1>
 <h3 align="center">A passionate frontend developer from Texas</h3>
 
+(https://github.com/esaldivar/esaldivar/blob/main/nzprofile.jpeg)
+
 - 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [https://medium.com/@eric.saldivarno2](https://medium.com/@eric.saldivarno2)
