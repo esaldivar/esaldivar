@@ -18,11 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
-- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
-- [Github profile README generator with addons like visitors-count, github-stats etc](https://dev.to/rahuldkjain/github-profile-readme-generator-with-addons-like-visitors-count-github-stats-etc-44bg)
-- [windmill animation in 10KB](https://dev.to/rahuldkjain/windmill-animation-in-10kb-51m8)
+- [The Career Transition](https://ericsaldivar.medium.com/the-career-transition-b583ad1d76a5?source=rss-32496ca0c979------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
