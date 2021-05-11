@@ -16,7 +16,7 @@
 </a>
 
 
-### Latest Blog posts
+### :closed_book: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The Career Transition](https://ericsaldivar.medium.com/the-career-transition-b583ad1d76a5?source=rss-32496ca0c979------2)
 <!-- BLOG-POST-LIST:END -->
