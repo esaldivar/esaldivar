@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [https://medium.com/@eric.saldivarno2](https://medium.com/@eric.saldivarno2)
+- 📝 I regularly write articles on [https://medium.com/@eric.saldivarno2](https://medium.com/@ericsaldivar)
 
 - 💬 Ask me about **react, redux, express**
 
