@@ -18,6 +18,7 @@
 
 ### :closed_book: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I don’t know but…](https://ericsaldivar.medium.com/i-dont-know-but-f5082414097?source=rss-32496ca0c979------2)
 - [The Career Transition](https://ericsaldivar.medium.com/the-career-transition-b583ad1d76a5?source=rss-32496ca0c979------2)
 <!-- BLOG-POST-LIST:END -->
 
