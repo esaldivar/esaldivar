@@ -28,7 +28,7 @@
 <p align="center">
   
 [<img src='https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png'  alt='linkedin' height='40'>](https://www.linkedin.com/in/esaldivar1214/)  [<img src='https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png' alt='twitter' height='40' >](https://twitter.com/print_HelloEric) 
-[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Eric Saldivar's DEV Community Profile" height="40" width="40">](https://dev.to/esaldivar)
+[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Eric Saldivar's DEV Community Profile" height="50">](https://dev.to/esaldivar)
 
 </p>
 
