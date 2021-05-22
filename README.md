@@ -6,7 +6,6 @@
 
 -  📝 I regularly write articles on:
 -  [https://medium.com/@ericsaldivar](https://medium.com/@ericsaldivar)
--  [![Eric Saldivar's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/esaldivar)
     
 
 - 💬 Ask me about **react, redux, express**
@@ -28,7 +27,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   
-[<img src='https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png'  alt='linkedin' height='40'>](https://www.linkedin.com/in/esaldivar1214/)  [<img src='https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png' alt='twitter' height='40' >](https://twitter.com/print_HelloEric)  
+[<img src='https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png'  alt='linkedin' height='40'>](https://www.linkedin.com/in/esaldivar1214/)  [<img src='https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png' alt='twitter' height='40' >](https://twitter.com/print_HelloEric) 
+[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Eric Saldivar's DEV Community Profile" height="40" width="40">](https://dev.to/esaldivar)
 
 </p>
 
