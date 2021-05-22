@@ -6,6 +6,7 @@
 
 -  📝 I regularly write articles on:
 -  [https://medium.com/@ericsaldivar](https://medium.com/@ericsaldivar)
+-  [https://dev.to/esaldivar](https://dev.to/esaldivar)
     
 
 - 💬 Ask me about **react, redux, express**
