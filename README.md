@@ -25,6 +25,8 @@
 - [The Career Transition](https://ericsaldivar.medium.com/the-career-transition-b583ad1d76a5?source=rss-32496ca0c979------2)
 <!-- BLOG-POST-LIST:END -->
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I want to thank everyone who has helped me along my journey. I promise to pay it forward. I am tagging myself as <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> at day 1. A small restart. I am currently job hunting the following have been so helpful <a href="https://twitter.com/codesmith_?ref_src=twsrc%5Etfw">@codesmith_</a> <a href="https://twitter.com/FrontendMasters?ref_src=twsrc%5Etfw">@FrontendMasters</a> <a href="https://twitter.com/Veterati?ref_src=twsrc%5Etfw">@Veterati</a> <a href="https://twitter.com/frontendmentor?ref_src=twsrc%5Etfw">@frontendmentor</a> <a href="https://t.co/yI0fM1PW7V">pic.twitter.com/yI0fM1PW7V</a></p>&mdash; Eric Saldivar (@print_HelloEric) <a href="https://twitter.com/print_HelloEric/status/1398855758687657987?ref_src=twsrc%5Etfw">May 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   
