@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric Saldivar</h1>
 <h3 align="center">A passionate software engineer from Texas</h3>
 
-[<img src='https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png'  alt='linkedin' width='700'>](https://www.linkedin.com/in/esaldivar1214/)
+[<img src='https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png'  alt='linkedin' width='100%'>](https://www.linkedin.com/in/esaldivar1214/)
 
 - 🌱 I’m currently learning **Python**
 
