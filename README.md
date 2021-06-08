@@ -22,6 +22,8 @@
 
 ### :closed_book: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Algorithm Approach: Bubble Sort](https://dev.to/esaldivar/algorithm-approach-bubble-sort-13oi)
+- [Algorithm Approach : Palindrome](https://dev.to/esaldivar/algorithm-approach-palindrome-41i3)
 - [I don’t know but…](https://ericsaldivar.medium.com/i-dont-know-but-f5082414097?source=rss-32496ca0c979------2)
 - [The Career Transition](https://ericsaldivar.medium.com/the-career-transition-b583ad1d76a5?source=rss-32496ca0c979------2)
 <!-- BLOG-POST-LIST:END -->
