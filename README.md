@@ -43,7 +43,3 @@
   </p>
   
   ![](https://komarev.com/ghpvc/?username=esaldivar)
-  
-  
-  
-   <img src="https://anchor.fm/javaunscripted/embed" height="102px" width="400px" frameborder="0" scrolling="no"></img>
