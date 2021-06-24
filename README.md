@@ -22,11 +22,11 @@
 
 ### :closed_book: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [More than just a bootcamp](https://ericsaldivar.medium.com/more-than-just-a-bootcamp-dd61b83b6fd9?source=rss-32496ca0c979------2)
 - [Community](https://ericsaldivar.medium.com/community-4dd3efec1323?source=rss-32496ca0c979------2)
 - [Algorithm Approach: Bubble Sort](https://dev.to/esaldivar/algorithm-approach-bubble-sort-13oi)
 - [Algorithm Approach : Palindrome](https://dev.to/esaldivar/algorithm-approach-palindrome-41i3)
 - [I don’t know but…](https://ericsaldivar.medium.com/i-dont-know-but-f5082414097?source=rss-32496ca0c979------2)
-- [The Career Transition](https://ericsaldivar.medium.com/the-career-transition-b583ad1d76a5?source=rss-32496ca0c979------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
