@@ -34,7 +34,9 @@
   
 [<img src='https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png'  alt='linkedin' height='40'>](https://www.linkedin.com/in/esaldivar1214/)  [<img src='https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png' alt='twitter' height='40' >](https://twitter.com/print_HelloEric) 
 [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Eric Saldivar's DEV Community Profile" height="45">](https://dev.to/esaldivar)
-
+<a href="https://twitter.com/print_helloeric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="print_helloeric" height="30" width="40" /></a>
+<a href="https://medium.com/@eric.saldivarno2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eric.saldivarno2" height="30" width="40" /></a>
+<a href="/https://anchor.fm/s/5fb6867c/podcast/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anchor.fm/s/5fb6867c/podcast/rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
