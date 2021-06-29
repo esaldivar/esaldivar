@@ -3,15 +3,6 @@
 
 <img src='https://github.com/esaldivar/esaldivar/blob/main/Screen%20Shot%202021-06-01%20at%207.26.39%20PM.png?raw=true'  alt='banner' width='100%'>
 
-- 🌱 I’m currently learning **Python**
-
--  📝 I regularly write articles on:
--  [https://medium.com/@ericsaldivar](https://medium.com/@ericsaldivar)
--  [https://dev.to/esaldivar](https://dev.to/esaldivar)
-    
-
-- 💬 Ask me about **react, redux, express**
-
 <a href="https://github.com/esaldivar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=esaldivar&show_icons=true&theme=radical&count_private&include_all_commits" />
 </a>
