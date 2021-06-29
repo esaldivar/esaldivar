@@ -35,7 +35,7 @@
 <a href="https://twitter.com/print_helloeric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="print_helloeric" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/esaldivar1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esaldivar1214" height="30" width="40" /></a>
 <a href="https://medium.com/@eric.saldivarno2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eric.saldivarno2" height="30" width="40" /></a>
-<a href="/https://anchor.fm/s/5fb6867c/podcast/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anchor.fm/s/5fb6867c/podcast/rss" height="30" width="40" /></a>
+<a href="https://anchor.fm/javaunscripted" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anchor.fm/javaunscripted" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
