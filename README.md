@@ -15,11 +15,11 @@
 
 ### :closed_book: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Algorithm Approach: Retrieve Depth](https://dev.to/esaldivar/algorithm-approach-retrieve-depth-48fk)
 - [Thank you for your service.](https://ericsaldivar.medium.com/thank-you-for-your-service-30ff6de536c8?source=rss-32496ca0c979------2)
 - [Style with the Dev Tools: Part 1 - Positioning](https://dev.to/esaldivar/style-with-the-dev-tools-part-1-positioning-2ig4)
 - [More than just a bootcamp](https://ericsaldivar.medium.com/more-than-just-a-bootcamp-dd61b83b6fd9?source=rss-32496ca0c979------2)
 - [Community](https://ericsaldivar.medium.com/community-4dd3efec1323?source=rss-32496ca0c979------2)
-- [Algorithm Approach: Bubble Sort](https://dev.to/esaldivar/algorithm-approach-bubble-sort-13oi)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
