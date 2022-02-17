@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=esaldivar&show_icons=true&theme=radical&count_private&include_all_commits" />
 </a>
 <a href="https://github.com/esaldivar/github-readme-stats">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esaldivar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esaldivar&layout=compact)](https://github.com/esaldivar/github-readme-stats)
 >
 </a>
 
