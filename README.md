@@ -8,11 +8,8 @@
 <a href="https://github.com/esaldivar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=esaldivar&show_icons=true&theme=radical&count_private&include_all_commits" />
 </a>
-<a href="https://github.com/esaldivar/github-readme-stats">
- 
-</a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esaldivar)](https://github.com/esaldivar/github-readme-stats)
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 
 
