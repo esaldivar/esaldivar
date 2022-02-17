@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=esaldivar&show_icons=true&theme=radical&count_private&include_all_commits" />
 </a>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=esaldivar&langs_count=5&theme=radical )]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=esaldivar&layout=compact&langs_count=5&theme=radical )]()
 
 
 
