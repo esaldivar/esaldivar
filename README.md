@@ -16,10 +16,10 @@
 ### :closed_book: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [JavaUnscripted](https://ericsaldivar.medium.com/javaunscripted-ab270173d23c?source=rss-32496ca0c979------2)
+- [How to write a README](https://dev.to/esaldivar/how-to-write-a-readme-3ge9)
+- [Algorithm Approach: Retrieve Depth](https://dev.to/esaldivar/algorithm-approach-retrieve-depth-48fk)
 - [Thank you for your service.](https://ericsaldivar.medium.com/thank-you-for-your-service-30ff6de536c8?source=rss-32496ca0c979------2)
-- [More than just a bootcamp](https://ericsaldivar.medium.com/more-than-just-a-bootcamp-dd61b83b6fd9?source=rss-32496ca0c979------2)
-- [Community](https://ericsaldivar.medium.com/community-4dd3efec1323?source=rss-32496ca0c979------2)
-- [I don’t know but…](https://ericsaldivar.medium.com/i-dont-know-but-f5082414097?source=rss-32496ca0c979------2)
+- [Style with the Dev Tools: Part 1 - Positioning](https://dev.to/esaldivar/style-with-the-dev-tools-part-1-positioning-2ig4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
