@@ -3,7 +3,7 @@
 
 <img src='https://github.com/esaldivar/esaldivar/blob/main/Screen%20Shot%202021-06-01%20at%207.26.39%20PM.png?raw=true'  alt='banner' width='100%'>
 
-<p>Thanks for stopping by!  My name is Eric, I am a dad, husband, veteran, and a software engineer.  I love collaborating with other engineers to release a full stack product. I am enjoy working with the React, Redux, Node, Express, relational, and nonrelational databases.  I love making wireframes, folder structures, database models, and READMEs.  The planning process to me is just as important as the code and launch of a product.  I believe that everyone has a voice on an engineering team.  If you want to reach out to me I have left my social contacts below.  Oh by the way I am also the cohost of a coding podcast, JavaUnscripted.  I hope we can work together someday!</p>
+<p>Thanks for stopping by!  My name is Eric, I am a software engineer at Rush Enterprises and an web development instructor at Fullstack Academy.  I also host a podcast, JavaUnscripted, a podcast that focuses on the journey into tech and the many stories many have during their journey.</p>
 
 <a href="https://github.com/esaldivar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=esaldivar&show_icons=true&theme=radical&count_private&include_all_commits" />
