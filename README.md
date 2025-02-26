@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Saldivar</h1>
-<h3 align="center">A passionate software engineer from Texas</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 <img src='https://github.com/esaldivar/esaldivar/blob/main/Screen%20Shot%202021-06-01%20at%207.26.39%20PM.png?raw=true'  alt='banner' width='100%'>
 
